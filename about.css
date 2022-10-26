@@ -1,0 +1,26 @@
+body {
+  background-color: white;
+  color: skyblue;
+   text-align: center
+}
+
+a:visited {
+  color: indigo;
+}
+
+nav {
+ width: auto;
+  position: sticky;
+}
+
+li {
+  display: inline-block;
+  border: solid yellow 10px; 
+  text-align:center
+    width: 200px;
+  padding: 15px 20px
+    
+    .truck{
+ 
+ backface-visibility:visible; 
+}
